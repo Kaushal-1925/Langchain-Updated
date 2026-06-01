@@ -7,3 +7,5 @@ langchain-google-genai
 langchain-huggingface
 huggingface-hub
 langchain-ollama
+langchain-google-vertexai
+
